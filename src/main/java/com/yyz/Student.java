@@ -10,6 +10,7 @@ public class Student {
 
     public void read(String bookName) {
         System.out.println("before reading!!!");
+        System.out.println("second person add one operation before...");
         System.out.println(getName() + "is reading " + bookName + "book!");
         System.out.println("after reading!!!");
     }
