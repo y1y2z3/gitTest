@@ -29,6 +29,11 @@
             <version>1.18.20</version> <!-- 注意查看最新的 Lombok 版本，并替换此处的版本号 -->
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>3.2.2</version>
+        </dependency>
     </dependencies>
 
 </project>
